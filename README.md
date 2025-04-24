@@ -1,7 +1,7 @@
-# 📊 Klasifikasi Kelayakan Kredit Komputer dengan Decision Tree
-Nama : Onixa Shafa Putri Wibowo
-NIM : 1227050107
-Kelas : E
+# 📊 Klasifikasi Kelayakan Kredit Komputer dengan Decision Tree<br>
+Nama : Onixa Shafa Putri Wibowo<br>
+NIM : 1227050107<br>
+Kelas : E<br>
 
 Proyek ini bertujuan untuk membuat model klasifikasi guna memprediksi apakah seseorang layak atau tidak layak mendapatkan kredit komputer berdasarkan dataset dummy.
 
