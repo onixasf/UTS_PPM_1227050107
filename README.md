@@ -13,8 +13,8 @@ Dataset yang digunakan adalah file CSV yang berisi informasi tentang beberapa at
 - Status perkawinan
 - dan label target (Layak / Tidak Layak)
 
-🧠 Algoritma
-Model klasifikasi yang digunakan:
+🧠 Algoritma<br>
+Model klasifikasi yang digunakan:<br>
 🔍 Decision Tree Classifier (Entropy Criterion)
 
 ✅ Tahapan Pembuatan Model
