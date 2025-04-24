@@ -6,12 +6,12 @@ Kelas : E<br>
 Proyek ini bertujuan untuk membuat model klasifikasi guna memprediksi apakah seseorang layak atau tidak layak mendapatkan kredit komputer berdasarkan dataset dummy.
 
 📁 Dataset
-Dataset yang digunakan adalah file CSV yang berisi informasi tentang beberapa atribut calon peminjam seperti:
-- Umur
-- Pekerjaan
-- Penghasilan
-- Status perkawinan
-- dan label target (Layak / Tidak Layak)
+Dataset yang digunakan adalah file CSV yang berisi data dummmy untuk kredit komputer, seperti:
+- Age
+- Income
+- Student
+- Credit_Rating
+- Buys_Computer
 
 🧠 Algoritma<br>
 Model klasifikasi yang digunakan:<br>
